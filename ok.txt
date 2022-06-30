@@ -1,1 +1,3 @@
-TheA_v0.6
+TheA_v0.5.1
+TheA_v0.5.2
+TheA_v0.5.3
